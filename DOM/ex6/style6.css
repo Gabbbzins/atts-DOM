@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #acacac;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.box1 {
+    background-color: rgb(250, 122, 122);
+}
+
+.box2 {
+    background-color: rgb(236, 215, 21);
+}
+
+.box3 {
+    background-color: rgb(38, 38, 102);
+}
+
+.newColor1 {
+    background-color: rgb(174, 0, 255);
+}
+
+.newColor2 {
+    background-color: rgb(4, 238, 255);
+}
+
+.newColor3 {
+    background-color: rgb(236, 205, 148);
+}
